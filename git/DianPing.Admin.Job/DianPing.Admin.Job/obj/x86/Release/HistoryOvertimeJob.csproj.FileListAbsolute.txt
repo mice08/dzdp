@@ -1,0 +1,12 @@
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\DianPing.Admin.Job.exe.config
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\DianPing.Admin.Job.exe
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\DianPing.Admin.Job.pdb
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\DianPing.Common.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\DianPing.Framework.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\bin\Release\Microsoft.Practices.Unity.dll
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\obj\x86\Release\DianPing.Admin.Job.exe
+E:\TFS\DianPing.Net\DianPing.Admin2010\DianPing.Admin.Job\DianPing.Admin.Job\obj\x86\Release\DianPing.Admin.Job.pdb
